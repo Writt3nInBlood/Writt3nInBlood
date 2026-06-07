@@ -1,4 +1,4 @@
-## Hi there 👋
+## cc te pica el chocho
 
 <!--
 **Writt3nInBlood/Writt3nInBlood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
