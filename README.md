@@ -1,4 +1,5 @@
 ## .
+![juju]71133694c925c3c1085de6dacb11099e.jpg
 <!--<img width="236" height="177" alt="17820729844944999383579262613500" src="https://github.com/user-attachments/assets/e6eb8634-4779-4f9e-9640-5f4d6285d31d" />
 
 **Writt3nInBlood/Writt3nInBlood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
