@@ -1,5 +1,7 @@
 <div align="center">
 
+![u](20.gif)
+
 ![juju](y.png)
 
 [dis](https://discordapp.com/users/1095513879532032061)
